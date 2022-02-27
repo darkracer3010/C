@@ -75,15 +75,8 @@ void main(){
 	else{
 	
 		printf("\nerror occured");
-	     printf("\n%d",up); 
+	     printf("\n%d",up);  
 	 
-	 
-	 
-	 
-	 
-}
-	 
-	 
-	 
+}	 
 	 }
 
